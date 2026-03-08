@@ -1,112 +1,117 @@
-<h1 align="center">Olá, eu sou Rafael Turino 👋</h1>
+<h1 align="center">Rafael Turino</h1>
 
 <p align="center">
-Desenvolvedor Full Stack focado na construção de aplicações web, plataformas SaaS e automação de processos.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Aplica%C3%A7%C3%B5es+web+e+plataformas+SaaS" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rafaelturino">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.rafaelturino.com.br">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
+  </a>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-💻 Desenvolvedor Full Stack com experiência em construção de sistemas web completos.
-
-🏛️ Atualmente atuo na **Prefeitura de Taubaté (DTI)** participando de:
-- desenvolvimento de sistemas internos
-- automação de processos
-- análise de requisitos
-- elaboração de documentação técnica (TR e ETP)
-
-🧠 Também desenvolvo **projetos próprios e plataformas SaaS**.
+Desenvolvedor Full Stack com foco em **sistemas web e plataformas SaaS**. Construo produtos próprios e estou aberto a **oportunidades CLT ou remoto** em times que valorizem código de qualidade e entrega de valor.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Stack Tecnológica
 
 ### Frontend
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
-![Node](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js)
-![Typescript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript)
 
-### Banco de Dados / Infra
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
----
+### Banco de Dados
 
-## 📦 Projetos em Destaque
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🍔 Tá na Mão Menu
-Sistema **SaaS de cardápio digital para restaurantes e lanchonetes**
+### Ferramentas
 
-Tecnologias:
-
-Next.js  
-TypeScript  
-Firebase  
-Tailwind  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
 
-### 🚗 Mônaco Automóveis
-Plataforma web para **gestão de anúncios e revenda de veículos**
+## Projetos em Produção
 
-Tecnologias:
+### Tá na Mão Menu
 
-Next.js  
-TypeScript  
-Node.js  
+![Status](https://img.shields.io/badge/status-em_produ%C3%A7%C3%A3o-success?style=flat-square)
 
----
+SaaS de cardápio digital para restaurantes e lanchonetes — substitui cardápio físico e facilita atualização de preços e itens em tempo real.
 
-### 📅 Sistema de Eventos
-Sistema para **gerenciamento e organização de eventos**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
 
-Tecnologias:
-
-React  
-Firebase  
-TypeScript  
+[Ver projeto](https://www.rafaelturino.com.br) · [Repositório](#)
 
 ---
 
-### 📊 Sistemas Internos – Prefeitura
-Desenvolvimento e evolução de **sistemas internos utilizados por servidores públicos**
+### Mônaco Automóveis
 
-Atuação em:
+![Status](https://img.shields.io/badge/status-em_produ%C3%A7%C3%A3o-success?style=flat-square)
 
-- levantamento de requisitos
-- desenvolvimento de funcionalidades
-- melhorias em sistemas existentes
-- automação de processos
+Plataforma web para revenda e gestão de anúncios de veículos — centraliza estoque, anúncios e divulgação para concessionárias e lojas.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+
+[Ver projeto](https://www.rafaelturino.com.br) · [Repositório](#)
 
 ---
 
-## 📈 Estatísticas
+### Sistema de Eventos
+
+![Status](https://img.shields.io/badge/status-em_produ%C3%A7%C3%A3o-success?style=flat-square)
+
+Sistema web para gestão completa de eventos — cadastro, inscrições, programação e controle de participantes em um único lugar.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+
+[Ver projeto](https://www.rafaelturino.com.br) · [Repositório](#)
+
+---
+
+## Estatísticas GitHub
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=rafatu07&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafatu07&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🌐 Links
+## Atividade
 
-💼 Portfólio  
-https://www.rafaelturino.com.br
-
-💼 LinkedIn  
-https://linkedin.com/in/rafaelturino
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafatu07&theme=tokyonight" alt="GitHub Streak">
+</p>
 
 ---
 
 <p align="center">
-Construindo sistemas que resolvem problemas reais.
+  <strong>Foco em entregar valor: sistemas que resolvem problemas reais e escalam com o negócio.</strong>
 </p>
