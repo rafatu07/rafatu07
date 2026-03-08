@@ -17,7 +17,11 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack com foco em **sistemas web e plataformas SaaS**. Construo produtos próprios e estou aberto a **oportunidades CLT/PJ, Freelance** em times que valorizem código de qualidade e entrega de valor.
+Desenvolvedor Full Stack com foco em **sistemas web, plataformas SaaS e soluções digitais para negócios reais**.
+
+Tenho experiência no desenvolvimento de **sistemas corporativos, produtos digitais e aplicações em produção**, utilizando tecnologias modernas do ecossistema JavaScript.
+
+Atualmente atuo na construção de aplicações utilizando **React, Next.js, Node.js e TypeScript**, com foco em **arquitetura escalável e experiência do usuário**.
 
 ---
 
@@ -78,7 +82,7 @@ SaaS de cardápio digital para restaurantes com gestão de pedidos e painel admi
 
 ![Status](https://img.shields.io/badge/status-em_produ%C3%A7%C3%A3o-success?style=flat-square)
 
-Sistema corporativo para gestão e acompanhamento de processos administrativos internos.
+Sistema corporativo utilizado na Prefeitura de Taubaté para gestão e acompanhamento de processos administrativos internos.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
