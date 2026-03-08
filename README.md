@@ -81,8 +81,7 @@ SaaS de cardápio digital para restaurantes com gestão de pedidos e painel admi
 Sistema corporativo para gestão e acompanhamento de processos administrativos internos.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
 
 [Ver projeto](https://sistemaprocessos.taubate.sp.gov.br/)
 
@@ -95,7 +94,7 @@ Sistema corporativo para gestão e acompanhamento de processos administrativos i
 E-commerce de produtos personalizados com catálogo e vendas online.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
 
 [Ver projeto](https://www.lojacontemamor.com.br/)
 
