@@ -54,7 +54,6 @@ Desenvolvedor Full Stack com foco em **sistemas web e plataformas SaaS**. Constr
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_Cloud-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -64,7 +63,7 @@ Desenvolvedor Full Stack com foco em **sistemas web e plataformas SaaS**. Constr
 
 ![Status](https://img.shields.io/badge/status-em_produ%C3%A7%C3%A3o-success?style=flat-square)
 
-SaaS de cardápio digital para restaurantes e lanchonetes — substitui cardápio físico e facilita atualização de preços e itens em tempo real.
+SaaS de cardápio digital para restaurantes com gestão de pedidos e painel administrativo.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
@@ -75,31 +74,30 @@ SaaS de cardápio digital para restaurantes e lanchonetes — substitui cardápi
 
 ---
 
-### Mônaco Automóveis
+### Sistema de Processos – Prefeitura de Taubaté
 
 ![Status](https://img.shields.io/badge/status-em_produ%C3%A7%C3%A3o-success?style=flat-square)
 
-Plataforma web para revenda e gestão de anúncios de veículos — centraliza estoque, anúncios e divulgação para concessionárias e lojas.
+Sistema corporativo para gestão e acompanhamento de processos administrativos internos.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
 
-[Ver projeto](https://www.monacoautomoveis.com.br/)
+[Ver projeto](https://sistemaprocessos.taubate.sp.gov.br/)
 
 ---
 
-### Sistema de Eventos
+### Loja Contém Amor
 
 ![Status](https://img.shields.io/badge/status-em_produ%C3%A7%C3%A3o-success?style=flat-square)
 
-Sistema web para gestão completa de eventos — cadastro, inscrições, programação e controle de participantes em um único lugar.
+E-commerce de produtos personalizados com catálogo e vendas online.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
 
-[Ver projeto](https://sistema-eventos-nu.vercel.app)
+[Ver projeto](https://www.lojacontemamor.com.br/)
 
 ---
 
