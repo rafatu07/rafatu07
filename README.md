@@ -17,7 +17,7 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack com foco em **sistemas web e plataformas SaaS**. Construo produtos próprios e estou aberto a **oportunidades CLT ou remoto** em times que valorizem código de qualidade e entrega de valor.
+Desenvolvedor Full Stack com foco em **sistemas web e plataformas SaaS**. Construo produtos próprios e estou aberto a **oportunidades CLT/PJ, Freelance** em times que valorizem código de qualidade e entrega de valor.
 
 ---
 
@@ -60,7 +60,7 @@ SaaS de cardápio digital para restaurantes e lanchonetes — substitui cardápi
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
 
-[Ver projeto](https://www.rafaelturino.com.br) · [Repositório](#)
+[Ver projeto](https://www.tanamaomenu.com.br/)
 
 ---
 
@@ -74,7 +74,7 @@ Plataforma web para revenda e gestão de anúncios de veículos — centraliza e
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
 
-[Ver projeto](https://www.rafaelturino.com.br) · [Repositório](#)
+[Ver projeto](https://www.monacoautomoveis.com.br/)
 
 ---
 
@@ -88,27 +88,7 @@ Sistema web para gestão completa de eventos — cadastro, inscrições, program
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
 
-[Ver projeto](https://www.rafaelturino.com.br) · [Repositório](#)
-
----
-
-## Estatísticas GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rafatu07&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafatu07&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## Atividade
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafatu07&theme=tokyonight" alt="GitHub Streak">
-</p>
+[Ver projeto](https://sistema-eventos-nu.vercel.app)
 
 ---
 
